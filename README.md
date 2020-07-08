@@ -9,3 +9,4 @@
 
 실행화면
 -----------------
+https://github.com/jinho17/eye_tracking_project/issues/1#issue-653410939
