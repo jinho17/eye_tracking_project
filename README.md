@@ -10,4 +10,5 @@
 실행화면
 -----------------
 ![image](https://user-images.githubusercontent.com/50227394/86941727-3c9ab280-c17f-11ea-8500-9d3b3e6776d6.png)
+![image](https://user-images.githubusercontent.com/50227394/86941899-753a8c00-c17f-11ea-9f8c-e7a49cabac9e.png)
 
